@@ -8,5 +8,8 @@ public class Main {
             System.out.println("i = " + i);
         }
         System.out.println("Congrats Brother!");
+
+        Cars cars=new Cars();
+        cars.run();
     }
 }
